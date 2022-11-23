@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jon Bontile (@pinoydatageek).
+- 👋 Hi, I’m Jon Bontile.
 - 👀 I’m interested in financial planning & analysis, data analysis and visualization.
 - 🌱 I’m currently learning SQL, Python, Power BI and Tableau.
 - 💞️ I’m looking to collaborate on data analysis projects that will help me upskill and land a data analyst job.
